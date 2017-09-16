@@ -1,0 +1,1 @@
+butter,margarine,cheese,egg,milk,cream,beer,water,coffee,apple,orange,banana,lemon,potato,broccoli,carrot,cucumber,garlic,lettuce,onion,tomato,bread,cereal,lasagna,pasta,pizza,rice,chicken,beef,nuts,seeds,fish   
